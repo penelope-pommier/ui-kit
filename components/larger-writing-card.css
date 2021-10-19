@@ -1,0 +1,21 @@
+.larger-card-green
+	{background-color: #C6E5B3; 
+	border-radius: 15px;
+	width: 148px;
+	height: 94px;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	}
+
+.larger-content{
+		background-color: #FEF4E1;
+		width: 142px;
+		height: 22px;
+		border-radius: 30px;
+		}
+
+.text-larger{
+	text-align: center;
+}

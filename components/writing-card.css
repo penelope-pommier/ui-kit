@@ -1,0 +1,22 @@
+.card-green {
+	background-color: #C6E5B3;
+    border-radius: 30px;
+    width: 307px;
+    height: 38px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-right: 5px;
+    padding-left: 5px;
+	}
+
+	
+.content {
+		background-color: #FEF4E1;
+		width: 200px;
+		height: 19px;
+		border-radius: 30px;
+		margin-bottom: -6px;}
+	

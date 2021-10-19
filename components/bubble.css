@@ -1,0 +1,37 @@
+.talk-bubble {
+    /* margin: 40px; */
+    display: inline-block;
+    position: relative;
+    width: 200px;
+    height: auto;
+    background-color: #FEF4E1;
+}
+
+.round {
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.tri-right.btm-left-in:after {
+    content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: 38px;
+    right: auto;
+    top: auto;
+    bottom: -20px;
+    border: 12px solid;
+    border-color: #FEF4E1 transparent transparent #FEF4E1;}
+
+.talktext {
+	display: flex;
+    justify-content: center;
+    height: 120px;
+    align-items: center;
+}
